@@ -190,7 +190,7 @@ Si vous êtes sur MacOS et que vous utilisez le gestionnaire de paquets [Macport
 
     Pour connaître la dernière version stable (par exemple, en scripting), jetez un coup d'oeil à [https://storage.googleapis.com/kubernetes-release/release/stable.txt](https://storage.googleapis.com/kubernetes-release/release/stable.txt).
 
-2. Ajoutez le binaire dans votre PATH.
+2. Ajoutez le dossier du binaire dans votre PATH.
 3. Testez pour vous assurer que la version que vous avez installée est à jour:
 
     ```
